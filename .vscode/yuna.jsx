@@ -5,6 +5,7 @@ export default function yuna() {
     <div>
         <p>이름은 김유나고 24살입니다</p>
         <p>현재 준우님의 인성에 감탄 중입니다</p>
+        <p>인성은 조인성</p>
     </div>
   )
 }
